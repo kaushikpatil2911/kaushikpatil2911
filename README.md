@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaushikpatil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaushikpatil" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/uc8l8xmook-32qnyk1-e8hua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="channel/uc8l8xmook-32qnyk1-e8hua" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc8l8xmook-32qnyk1-e8hua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc8l8xmook-32qnyk1-e8hua" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kaushikupatil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kaushikupatil" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kaushikpatil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="kaushikpatil" height="30" width="40" /></a>
 </p>
