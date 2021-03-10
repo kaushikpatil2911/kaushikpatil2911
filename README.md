@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/aboutkaushikpatil](https://tinyurl.com/aboutkaushikpatil)
 
-- ⚡ Fun fact **I am a serious teetotaler (Google for meaning if you aren't aware of the word)**
+- ⚡ Fun fact **: I am a serious teetotaler (Google for meaning if you aren't aware of the word)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
