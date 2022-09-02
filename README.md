@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **patil.kau@northeastern.edu**
 
-- 📄 Know about my experiences [https://tinyurl.com/aboutkaushikpatil](https://tinyurl.com/aboutkaushikpatil)
+- 📄 Know about my experiences https://tinyurl.com/kaushikpatilresume
 
 - ⚡ Fun fact **: I am a serious teetotaler (Google for meaning)**
 
