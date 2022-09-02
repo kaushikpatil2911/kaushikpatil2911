@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikpatil2911&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikpatil2911" /> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushikpatil2911&show_icons=true&locale=en" alt="kaushikpatil2911" /></p>
-
 
 - 🔭 I’m currently working on **practicing Data Structures and Algorithms**
 
