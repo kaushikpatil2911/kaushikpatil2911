@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning about **Amazon Web Services**
 
-- 👯 I’m looking to collaborate on **to learn more about Blockchain and Investing (Stocks and Cryptocurrency**
+- 👯 I’m looking to collaborate on **to learn more about Blockchain and Investing (Stocks and Cryptocurrency)**
 
 - 🤝 I’m looking for help with **Full-time opportunities in Software Development roles**
 
