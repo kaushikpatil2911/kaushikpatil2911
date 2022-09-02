@@ -8,13 +8,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushikpatil2911&show_icons=true&locale=en" alt="kaushikpatil2911" /></p>
 
 
-- 🔭 I’m currently working on **Medical Plan RestAPI Application**
+- 🔭 I’m currently working on **practicing Data Structures and Algorithms**
 
 - 🌱 I’m currently learning about **Amazon Web Services**
 
-- 👯 I’m looking to collaborate on **Personal Project (Coming Soon...)**
+- 👯 I’m looking to collaborate on **to learn more about Blockchain and Investing (Stocks and Cryptocurrency**
 
-- 🤝 I’m looking for help with **Full-time opportunities starting June 2021**
+- 🤝 I’m looking for help with **Full-time opportunities in Software Development roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaushikpatil2911](https://github.com/kaushikpatil2911)
 
