@@ -10,17 +10,15 @@
 
 - 🌱 I’m currently learning about **Amazon Web Services**
 
-- 👯 I’m looking to collaborate on **to learn more about Blockchain and Investing (Stocks and Cryptocurrency)**
+- 👯 I’m looking to collaborate **to learn more about Blockchain and Investing (Stocks and Cryptocurrency)**
 
-- 🤝 I’m looking for help with **Full-time opportunities in Software Development roles**
+- 🤝 I’m looking for **Full-time opportunities in Software Development roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaushikpatil2911](https://github.com/kaushikpatil2911)
 
 - 📫 How to reach me **patil.kau@northeastern.edu**
 
 - 📄 Know about my experiences https://tinyurl.com/kaushikpatilresume
-
-- ⚡ Fun fact **: I am a serious teetotaler (Google for meaning)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
