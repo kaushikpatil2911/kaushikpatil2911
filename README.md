@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **practicing Data Structures and Algorithms**
 
-- 🌱 I’m currently learning about **Amazon Web Services**
+- 🌱 I’m currently learning about **Blockchain and Solidity**
 
 - 👯 I’m looking to collaborate **to learn more about Blockchain and Investing (Stocks and Cryptocurrency)**
 
