@@ -3,7 +3,6 @@
 <h3 A good team player coupled with leadership attributes who is delivery oriented along with being an enthusiast and a can-do attitude passionate to continuously grow and improve. Combined with the professional and academic experience of working on various technologies I have a passion to pursue a career in Big Data and Machine Learning. Committed and dedicated to my work, I would like to work in an environment where my abilities are challenged which would enhance my skills.</h3>
 
 
-
 - 🔭 I’m currently working on **practicing Data Structures and Algorithms**
 
 - 🌱 I’m currently learning about **Blockchain and Solidity**
