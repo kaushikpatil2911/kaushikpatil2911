@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for **Full-time opportunities in Software Development roles**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kaushikpatil2911](https://github.com/kaushikpatil2911)
+- 👨‍💻 All of my projects are available at [https://github.com/kaushikpatil2911?tab=repositories](https://github.com/kaushikpatil2911?tab=repositories)
 
 - 📫 How to reach me **patil.kau@northeastern.edu**
 
