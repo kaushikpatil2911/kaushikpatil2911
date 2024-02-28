@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋 I'm Kaushik Patil</h1>
 
-🌟 Passionate about leveraging technology to drive positive change and innovation. 🚀
+🚀 Passionate Data Engineer
 
-👋 Hi there! I'm [Your Name], a seasoned [Your Profession/Title] with [X] years of experience in [Your Field/Area of Expertise]. My journey in [Your Field/Area of Expertise] has been fueled by an insatiable curiosity and a relentless pursuit of excellence.
+💻 Kaushik Patil 🌐
 
-🔍 In my career, I've had the privilege of [Briefly mention some key accomplishments or experiences]. These experiences have honed my skills in [Your Key Skills/Expertise], including [Skill 1], [Skill 2], and [Skill 3].
+🔍 Tech Stack: Python, SQL, Hadoop, Apache Hive, Apache Pig, Apache Mahout, Apache Kafka, Elasticsearch, NumPy, Pandas, MongoDB, HBase, Apache Cassandra, MySQL, SSMS, Oracle 18c, PostgreSQL, Redis, Alteryx, Talend, PowerBI, Tableau, Kibana
 
-💼 Currently, I'm [Briefly describe your current role or professional focus]. I thrive in dynamic environments where I can collaborate with diverse teams to tackle complex challenges and drive meaningful outcomes.
+💼 Experience: 3 years in customer centric role and working on different Data Governance issues.
 
-🌱 Always eager to learn and grow, I stay updated with the latest trends and advancements in [Your Field/Area of Expertise]. I believe that continuous learning is key to staying ahead in today's fast-paced world.
+🌱 Continuous Learner: Always exploring new technologies to stay ahead in the field.
 
-🌎 Outside of work, you can find me [Hobbies/Interests]. I'm passionate about [Interest/Hobby 1], [Interest/Hobby 2], and [Interest/Hobby 3], which help me maintain a healthy work-life balance.
-
-🤝 I'm always open to new opportunities and connections, so feel free to reach out if you'd like to connect or discuss potential collaborations!
-
-Let's connect and explore how we can create value together. 🤝
-
-
+🤝 Let's Connect: Open to collaboration and new opportunities. Reach out!
 
 
 - 🔭 I’m currently working on **practicing Data Structures and Algorithms**
