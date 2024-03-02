@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/kaushikpatil2911?tab=repositories)
 
-- 📫 How to reach me [patil.kau@northeastern.edu]
+- 📫 How to reach me patil.kau@northeastern.edu
 
 - 📄 Know about my experiences https://tinyurl.com/kaushikpatilresume
 
