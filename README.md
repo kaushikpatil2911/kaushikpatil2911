@@ -2,8 +2,6 @@
 
 🚀 Passionate Data Engineer
 
-💻 Kaushik Patil 🌐
-
 🔍 Tech Stack: Python, SQL, Hadoop, Apache Hive, Apache Pig, Apache Mahout, Apache Kafka, Elasticsearch, NumPy, Pandas, MongoDB, HBase, Apache Cassandra, MySQL, SSMS, Oracle 18c, PostgreSQL, Redis, Alteryx, Talend, PowerBI, Tableau, Kibana
 
 💼 Experience: 3 years in customer centric role and working on different Data Governance issues.
