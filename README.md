@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences https://tinyurl.com/kaushikpatilresume
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me @:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaushikpatil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaushikpatil" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kaushikupatil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kaushikupatil" height="30" width="40" /></a>
