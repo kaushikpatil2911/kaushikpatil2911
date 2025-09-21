@@ -81,7 +81,7 @@
 ---
 
 ### 📄 Resume
-📜 [Click to View My Resume](https://tinyurl.com/kaushikpatilresume)
+📜 [Click to View My Resume](https://github.com/kaushikpatil2911/Me/blob/main/Kaushik_Patil_UpdatedResume.pdf)
 
 ---
 
