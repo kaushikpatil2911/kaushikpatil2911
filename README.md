@@ -14,7 +14,7 @@
 
 - 📊 Focused on **Data Quality**, **Metadata Management**, and **Data Strategy**
 - 🔁 Building scalable **ETL workflows** across cloud and hybrid platforms
-- 🧠 Exploring the intersection of **Blockchain**, **DSA**, and **Financial Analytics**
+- 🧠 Exploring the intersection of **Blockchain** and **Financial Analytics**
 
 ---
 
