@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-🎯 I'm a **results-oriented Data Engineer** with 4+ years of experience in:
+🎯 I'm a **results-oriented Data Governance Engineer** with 4+ years of experience in:
 - 📊 Customer-facing data roles  
 - 🛠️ Tackling **Data Governance**, **Data Quality**, and **ETL pipeline design**  
 - 🤝 Passionate about **team collaboration**, **tech mentorship**, and **continuous learning**
@@ -18,7 +18,7 @@
 🧠 Currently deep-diving into:
 - 📚 Advanced DSA
 - 🔗 Blockchain Development & Smart Contracts
-- 📈 Investment Analytics (Crypto + Stocks)
+- 📈 Investment Analytics (Crypto + Stocks) React Website
 
 ---
 
